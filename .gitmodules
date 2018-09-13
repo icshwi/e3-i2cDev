@@ -1,4 +1,4 @@
 [submodule "i2cDev"]
 	path = i2cDev
 	url = https://github.com/paulscherrerinstitute/i2cDev
-	ignore = all
+	ignore = dirty
