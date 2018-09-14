@@ -7,7 +7,7 @@ E3_MODULE_VERSION:=1.2.4
 
 
 # DEPENDENT MODULE VERSION
-REGDEV_DEV_VERSION:=3.4.15
+REGDEV_DEP_VERSION:=3.4.15
 
 
 # ONLY IF this module has the sequencer dependency. However,
